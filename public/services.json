@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "MRI",
+      "description": "Magnetic resonance imaging (MRI) is a type of scan that uses strong magnetic fields and radio waves to produce detailed images of the inside of the body. An MRI scanner is a large tube that contains powerful magnets.",
+      "img": "https://image.freepik.com/free-photo/young-woman-patient-is-ready-magnetic-resonance_283617-1616.jpg"
+    },
+    {
+      "id": 2,
+      "name": "CBC Test",
+      "description": "A complete blood count (CBC) is a blood test. It helps healthcare providers detect a range of disorders and conditions. It also checks your blood for signs of medication side effects.",
+      "img": "https://image.freepik.com/free-photo/scientist-putting-blood-sample-from-test-tube-with-micropipette-petri-dish-analysing-chemical-reaction_482257-487.jpg"
+    },
+    {
+      "id": 3,
+      "name": "CT Scan",
+      "description": "Computed tomography (CT) scan is a useful diagnostic tool for detecting diseases and injuries. It uses a series of X-rays and a computer to produce a 3D image of soft tissues and bones.",
+      "img": "https://as1.ftcdn.net/v2/jpg/02/83/19/50/500_F_283195051_FN11ZxiFPxo2jy5JARSqE7qVaUsP5iSA.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ultrasound",
+      "description": "An ultrasound is an imaging test that uses sound waves to create a picture (also known as a sonogram) of organs, tissues, and other structures inside the body.",
+      "img": "https://as1.ftcdn.net/v2/jpg/03/04/53/66/500_F_304536639_J1Mn7PUnkKES0P80YbCfm5c5KGBfRica.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Endoscopy",
+      "description": "An endoscopy is a procedure where organs inside your body are looked at using an instrument called an endoscope.",
+      "img": "https://image.freepik.com/free-photo/medical-operation-involving-robot_116317-3811.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Skull X-ray",
+      "description": "X-rays use invisible electromagnetic energy beams to make images of the skull. Standard X-rays are done for many reasons, including diagnosing tumors, infection, foreign bodies, or bone injuries.",
+      "img": "https://image.freepik.com/free-photo/worried-medical-worker-with-patient-s-xray-shot-female-doctor-clinic-examine-human-scull-roentgen-medicine-service-head-desease-healthcare-concept_229664-121.jpg"
+    }
+  ]
