@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Button, Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
@@ -29,7 +28,6 @@ const Header = () => {
              variant="light">Logout</Button> :  
                <Nav.Link className="nav-style" as={Link}to="login">Login</Nav.Link>}
               
-
          <Navbar.Text>
          Signed in as: <a href="#login">{user?.displayName} </a>
         </Navbar.Text> 
@@ -41,5 +39,4 @@ const Header = () => {
       </>
     );
 };
-
 export default Header;

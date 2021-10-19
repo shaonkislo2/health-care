@@ -1,5 +1,5 @@
 import React from 'react';
-import './Doctor.css'
+
 
 const Doctor = ({doctor}) => {
     const {name, img, description}=doctor;
@@ -12,5 +12,4 @@ const Doctor = ({doctor}) => {
         </div>
     );
 };
-
 export default Doctor;
